@@ -62,13 +62,21 @@ Urban delivery vehicles can be adapted to better suit the density of urban distr
 
 
 프롬프트 출처
-1 x
-2 https://www.aimoa.kr/blog/chatgpt4
-3 https://blog.naver.com/wantedlab/223044211114
-4 x
-5 2023학년도 대학수학능력시험 국어영역 24-30번 문제 지문
-6 https://www.chatgpters.org/c/notice/chatgpt
-7 2023학년도 대학수학능력시험 국어영역 1-3번 문제 지문
-2023학년도 대학수학능력시험 수학영역 확률과 통계 25번 문제
-2023학년도 대학수학능력시험 영어영역 22번 문제
 
+1 x
+
+2 https://www.aimoa.kr/blog/chatgpt4
+
+3 https://blog.naver.com/wantedlab/223044211114
+
+4 x
+
+5 2023학년도 대학수학능력시험 국어영역 24-30번 문제 지문
+
+6 https://www.chatgpters.org/c/notice/chatgpt
+
+7 2023학년도 대학수학능력시험 국어영역 1-3번 문제 지문
+
+2023학년도 대학수학능력시험 수학영역 확률과 통계 25번 문제
+
+2023학년도 대학수학능력시험 영어영역 22번 문제
